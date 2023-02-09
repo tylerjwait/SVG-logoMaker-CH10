@@ -67,7 +67,7 @@ inquirer.prompt([
         console.log("ERROR!! NOT A SHAPE");
     }
     const content = svgContent(answers, shapeContent);
-    fs.writeFile("logo.svg", content, (err) => 
+    fs.writeFile("Examples/logo.svg", content, (err) => 
         err ? console.log(err) : console.log("SVG CREATED!!✅✅✅✅✅")
     );
 })
