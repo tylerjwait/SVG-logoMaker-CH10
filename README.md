@@ -35,6 +35,10 @@ AND "SVG CREATED!!✅✅✅✅✅" is printed in the command line✅
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered.✅
 
+DEMO VIDEO LINK>>>>> https://www.youtube.com/watch?v=5hpKdW1_HBE
+GITHUB REPO>>>>>>>> https://github.com/tylerjwait/SVG-logoMaker-CH10
+
+
 
 
 
